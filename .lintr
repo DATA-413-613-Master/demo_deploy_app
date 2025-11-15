@@ -1,0 +1,8 @@
+linters: linters_with_defaults(
+  assignment_linter = NULL,
+  commented_code_linter = NULL,
+  indentation_linter = NULL,
+  object_usage_linter = NULL,
+  trailing_whitespace_linter =  NULL,
+  absolute_path_linter()
+  )
