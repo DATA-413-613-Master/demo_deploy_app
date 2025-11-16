@@ -1,3 +1,10 @@
 bioconductor
+CMD
+https
 LinkingTo
+renv
+runApp
+shinyverse
+srv
 vcs
+WORKDIR
