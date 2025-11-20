@@ -37,9 +37,9 @@ repos:
           \.github/workflows/.*|
           data/.*|
           )$
-    -   id: lintr
-        args: [--warn_only]
-        verbose: true
+    # -   id: lintr
+    #     args: [--warn_only]
+    #     verbose: true
     -   id: readme-rmd-rendered
     -   id: parsable-R
     -   id: no-browser-statement
