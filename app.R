@@ -6,7 +6,7 @@
 #
 #    https://shiny.posit.co/
 #
-# mad a ew line
+# add a new line
 library(shiny)
 
 # Define UI for application that draws a histogram
